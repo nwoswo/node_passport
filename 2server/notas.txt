@@ -1,0 +1,16 @@
+1) "/auth/google",
+    aqui llama para hacer el login 
+
+2) passport.use(
+    new GoogleStrategy(
+    //aqui loguea 
+
+3)
+"/auth/google/callback"  
+    // es registrado en gcloud 
+    // aca creamos el token 
+
+4) passport.use(
+    new JwtStrategy(
+
+        
